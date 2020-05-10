@@ -4,7 +4,7 @@ This bot allows to get 3D recovered human bodies via single image. For 3D recons
 
 Resutls:
 
-![Image](https://thePolly.github.io/PIFu/resources/images/1.png)
+![Teaser Image](https://shunsukesaito.github.io/PIFu/resources/images/teaser.png)
 
 # PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization
 
