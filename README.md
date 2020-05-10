@@ -1,8 +1,9 @@
-# PIFu Bot
+# Telegram Bot for testing PIfu's algorythm for Human 3D Reconstruction 
 
-Description....
+This bot allows to get 3D recovered human bodies via single image. For 3D reconstruction it uses PIFu's algorythm. Below you can see some results. 
 
 Resutls:
+
 
 
 # PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization
